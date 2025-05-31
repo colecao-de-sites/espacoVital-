@@ -860,6 +860,16 @@
 
         <script src="js/blog.js"></script>
 
+        <script>
+  document.querySelectorAll('.menu .nav-link').forEach(link => {
+    link.addEventListener('click', () => {
+      const menu = document.querySelector('.menu');
+      menu.classList.remove('active');
+    });
+  });
+</script>
+
+
 
     </h:body>
 </html>
