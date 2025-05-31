@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+/******************************
+
+[Table of Contents]
+
+1. Fonts
+2. Body and some general stuff
+3. Header
+4. Menu
+6. Blog
+
+
+******************************/
+
+
+
+
+/*********************************
+6. Blog
+*********************************/
+
+.blog
+{
+	background: #FFFFFF;
+	padding-top: 45px;
+	padding-bottom: 100px;
+}
+.blog_row
+{
+	margin-top: 100px;
+}
+.blog_col
+{
+	margin-bottom: 49px;
+}
+.blog_post_image
+{
+	width: 100%;
+}
+.blog_post_image img
+{
+	max-width: 100%;
+}
+.blog_post_title
+{
+	margin-top: 20px;
+}
+.blog_post_title a
+{
+	font-size: 24px;
+	font-weight: 400;
+	color: #412031;
+	line-height: 1.1;
+}
+.blog_post_title a:hover
+{
+	color: #cea0b7;
+}
+.blog_post_date
+{
+	margin-top: 4px;
+}
+.blog_post_date a
+{
+	font-size: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: #cea0b7;
+}
+.blog_post_text
+{
+	margin-top: 22px;
+}
+.blog_post_text p
+{
+	font-weight: 500;
+	color: #535353;
+        text-align: justify;
+}
+.blog_post_link
+{
+	margin-top: 36px;
+}
+.blog_post_link a
+{
+	font-size: 12px;
+	font-weight: 400;
+	color: #cea0b7;
+}
+.blog_button
+{
+	margin-top: 46px;
+}
