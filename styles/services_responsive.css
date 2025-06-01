@@ -176,7 +176,7 @@
 	{
 		right: calc((100vw - 510px) / 2 - 15px);
 	}
-	.home_title
+	/*.home_title
 	{
 		font-size: 72px;
 		margin-top: -4px;
@@ -189,7 +189,7 @@
 	.home_button
 	{
 		margin-top: 37px;
-	}
+	}*/
 	.service_col:nth-last-child(n+4)
 	{
 		margin-bottom: 0px;
@@ -226,10 +226,10 @@
 	{
 		font-size: 13px;
 	}
-	.home
+	/*.home
 	{
 		height: 70vh;
-	}
+	}*/
 	.header_content,
 	.header.scrolled .header_content
 	{
@@ -240,10 +240,10 @@
 		right: 0px;
 		height: 65px;
 	}
-	.home_title
+	/*.home_title
 	{
 		font-size: 48px;
-	}
+	}*/
 	.section_title
 	{
 		font-size: 48px;
