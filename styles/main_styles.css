@@ -272,7 +272,12 @@ section
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    background-image: url('images/gallery_1.png');
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+
 }
+
+
 .nopadding
 {
     padding: 0px !important;
@@ -1560,7 +1565,7 @@ xhtml {
 .extra_title {
     font-size: 60px;
     color: #FFFFFF;
-    line-height: 1.1;
+    line-height: 1.4;
 }
 .extra_text
 {
@@ -1569,8 +1574,9 @@ xhtml {
 }
 .extra_text p
 {
-    color: #8B008B;
+    color: #FFFFFF;
     font-weight: 600;
+    line-height: 1.1;
 }
 .extra_button
 {
